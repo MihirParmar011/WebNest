@@ -17,11 +17,25 @@ WebNest is a lightweight and developer-friendly Flutter app that lets users ente
 
 ## 📸 Screenshots
 
-| Onboarding1 | Onboarding2 |Onboarding3 | URL Input | WebView Loaded |
-|-------|------------|-----------|----------------|
-| ![Onboarding1](assets/Images/OB1.jpg) | ![Onboarding2](assets/Images/OB2.jpg) |![Onboarding3](assets/Images/OB2.jpg) | ![URL Input](assets/Images/url_input.jpg) | ![WebView](assets/Images/webview.jpg) |
+<table>
+  <tr>
+    <th>Onboarding1</th>
+    <th>Onboarding2</th>
+    <th>Onboarding3</th>
+    <th>URL Input</th>
+    <th>WebView Loaded</th>
+  </tr>
+  <tr>
+    <td><img src="assets/Images/OB1.jpg" alt="Onboarding1" width="180"/></td>
+    <td><img src="assets/Images/OB2.jpg" alt="Onboarding2" width="180"/></td>
+    <td><img src="assets/Images/OB3.jpg" alt="Onboarding3" width="180"/></td>
+    <td><img src="assets/Images/url_input.jpg" alt="URL Input" width="180"/></td>
+    <td><img src="assets/Images/webview.jpg" alt="WebView" width="180"/></td>
+  </tr>
+</table>
 
-> 📌 Images should be placed in `assets/screens/`. Replace the placeholders with actual screenshots of your app.
+> 
+
 
 ---
 
